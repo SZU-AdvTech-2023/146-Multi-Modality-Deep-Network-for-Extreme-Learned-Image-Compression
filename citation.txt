@@ -1,0 +1,9 @@
+@inproceedings{REPO146,
+    author = "Jiang, Xuhao and Tan, Weimin and Tan, Tian and Yan, Bo and Shen, Liquan",
+    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    number = "1",
+    pages = "1033--1041",
+    title = "{Multi-Modality Deep Network for Extreme Learned Image Compression}",
+    volume = "37",
+    year = "2023"
+}
