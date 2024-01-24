@@ -1,0 +1,1 @@
+python cut_data/combine_patches.py --origin ../test_datasets/csiq/infer_patches --target ../Noise_results/G3/e100_b4_l002/Noise_MMDN_csiq
